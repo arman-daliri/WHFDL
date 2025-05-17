@@ -2,3 +2,5 @@
 # A Non-Invasive Method for Gastric Cancer Feature Selection and Prediction based on Metabolomics Data
 
 1 - First, download WHH Feature Selection.zip, unzip it, and run the file in the feature_selection notebook to get the selected feature data.
+
+2 - Then download ML Models.zip, paste the output from step 1 into it. Then run Gastric Cancer Prediction Experimental evaluation.ipynb for each algorithm.
