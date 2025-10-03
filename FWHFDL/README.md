@@ -33,4 +33,4 @@ print("Best Cost:", res['best_cost'])
 print("Selected Num:", res['selected_num'])
 print("Selected:", res['selected'])
 ```
-You can find the "data.csv" [here](https://github.com/arman-daliri/WHFDL/Data).
+You can find the "data.csv" [here](https://github.com/arman-daliri/WHFDL/tree/main/Data).
