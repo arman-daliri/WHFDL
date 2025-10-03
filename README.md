@@ -1,5 +1,5 @@
 # World Hyper Fuzzy Deep Learning
-# WHFDL: an explainable method based on World Hyper-heuristic and Fuzzy Deep Learning approaches for gastric cancer detection using metabolomics data
+## WHFDL: an explainable method based on World Hyper-heuristic and Fuzzy Deep Learning approaches for gastric cancer detection using metabolomics data
 
 ## How to
 First run this command to install FWHFDL and CWHFDL packages
