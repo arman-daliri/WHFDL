@@ -19,6 +19,6 @@ Experimental/Gastric Cancer Prediction Experimental evaluation.ipynb
 ```
 file and run.
 
-## Authors:
+## Authors
 - Mohammad Mahdi Mir [Contact](mailto:standardret@proton.me)
 - Arman Daliri [Contact](mailto:daliriwork2@gmail.com)
