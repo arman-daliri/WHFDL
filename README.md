@@ -22,3 +22,4 @@ file and run.
 ## Authors
 - Mohammad Mahdi Mir [Contact](mailto:standardret@proton.me)
 - Arman Daliri [Contact](mailto:daliriwork2@gmail.com)
+- Nora Mahdavi [Contact](mailto:noramahdvi@gmail.com)
