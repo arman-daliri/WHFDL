@@ -2,11 +2,11 @@
 ## WHFDL: an explainable method based on World Hyper-heuristic and Fuzzy Deep Learning approaches for gastric cancer detection using metabolomics data
 
 ## How to
-First run this command to install FWHFDL and CWHFDL packages
+### First run this command to install FWHFDL and CWHFDL packages
 -
-https://pypi.org/project/CWHFDL/
+### https://pypi.org/project/CWHFDL/
 -
-https://pypi.org/project/FWHFDL/
+### https://pypi.org/project/FWHFDL/
 -
 ```shell
 $ pip install FWHFDL CWHFDL
