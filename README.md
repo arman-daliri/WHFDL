@@ -1,5 +1,16 @@
 # World Hyper Fuzzy Deep Learning
-## WHFDL: an explainable method based on World Hyper-heuristic and Fuzzy Deep Learning approaches for gastric cancer detection using metabolomics data
+## WHFDL
+
+## Article title:
+WHFDL: an explainable method based on World Hyper-heuristic and Fuzzy Deep Learning approaches for gastric cancer detection using metabolomics data
+-
+## Note:
+Note that the values ​​of the interpretability criteria change each time you run and output.
+By nature, the values ​​should change, and the model should remain stable and interpretable. So don't be surprised if the graphs change.
+-
+# Accepted on: 
+## BioData Mining
+### https://biodatamining.biomedcentral.com
 
 ## How to
 ### First run this command to install FWHFDL and CWHFDL packages
