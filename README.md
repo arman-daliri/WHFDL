@@ -9,8 +9,7 @@ Note that the values ​​of the interpretability criteria change each time you
 By nature, the values ​​should change, and the model should remain stable and interpretable. So don't be surprised if the graphs change.
 -
 # Accepted on: 
-#### BioData Mining
-#### https://biodatamining.biomedcentral.com
+#### [BioData Mining](https://biodatamining.biomedcentral.com) from Springer Nature.
 
 ## How to
 #### First run this command to install FWHFDL and CWHFDL packages
