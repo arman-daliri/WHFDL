@@ -31,5 +31,7 @@ file and run.
 
 #### Authors
 - Arman Daliri [Contact](mailto:daliriwork2@gmail.com)
+- Dr. Reza Sadeghi [Contact](mailto:Reza.Sadeghi@marist.edu)
+- Dr. Mahdieh Zabihimayvan [Contact](mailto:Zabihimayvan@ccsu.edu)
 - Mohammad Mahdi Mir [Contact](mailto:standardret@proton.me)
 - Nora Mahdavi [Contact](mailto:noramahdvi@gmail.com)
