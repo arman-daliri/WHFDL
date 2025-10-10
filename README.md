@@ -37,5 +37,5 @@ file and run.
 - Nora Mahdavi [Contact](mailto:noramahdvi@gmail.com)
 
 #### Citation
-[doi](https://doi.org/10.1186/s13040-025-00486-1)
+[WHFDL: an explainable method based on World Hyper-heuristic and Fuzzy Deep Learning approaches for gastric cancer detection using metabolomics data](https://doi.org/10.1186/s13040-025-00486-1)
 
